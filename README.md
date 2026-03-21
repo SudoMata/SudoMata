@@ -1,9 +1,9 @@
 - 👋 Hi, Je suis @SudoMata
-- 👀 Je suis intéressé par la programmation.
+- 👀 Je suis intéressé par la technologie et l'inovation.
 - 🌱 Je suis curieux par l'apprentissage
 - 💞️ Je cherche la collaboration avec d'autres Devs
-- 📫 Comment me joindre (sudomata@gmail.com, whatsapp : +243 844 635 328)
-- 😄 Pronoms : (la, il, nous, lui)
+- 📫 Comment me joindre (sudomata@gmail.com, whatsapp : +243 977 755 772)
+- 😄 Pronoms : (le, il, nous, lui)
 - ⚡ Fait amusant : j'aime la science
 
 <!---
