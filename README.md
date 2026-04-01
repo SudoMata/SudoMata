@@ -2,7 +2,7 @@
 - 👀 Je suis intéressé par la technologie et l'inovation.
 - 🌱 Je suis curieux par l'apprentissage
 - 💞️ Je cherche la collaboration avec d'autres Devs
-- 📫 Comment me joindre (sudomata@gmail.com, whatsapp : +243 977 755 772)
+- 📫 Comment me joindre (sudomata@fabienkapanda.tech, whatsapp : +243 977 755 772)
 - 😄 Pronoms : (le, il, nous, lui)
 - ⚡ Fait amusant : j'aime la science
 - ⚡ Portfolio : https://fabienkapanda.tech
